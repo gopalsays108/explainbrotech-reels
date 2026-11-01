@@ -1,0 +1,42 @@
+[
+  {
+    "id": "instagram-explain-bro-2026-11-01#01",
+    "number": "01",
+    "title": "REST vs GraphQL vs gRPC",
+    "at": "2026-11-01T21:00:00+05:30",
+    "caption": "REST vs GraphQL vs gRPC: Pick the Right Tool\n\nREST, GraphQL and gRPC solve different interface problems. Here is a quick comparison of resources, field selection and service contracts—without a made-up universal winner.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Glossary/REST\nhttps://graphql.org/learn/queries/\nhttps://grpc.io/docs/what-is-grpc/introduction/\n\n#SoftwareEngineering #APIDesign #GraphQL #gRPC #ExplainBro",
+    "video": "instagram-explain-bro-2026-11-01-01.mp4",
+    "cover": "instagram-explain-bro-2026-11-01-01-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-explain-bro-2026-11-01#02",
+    "number": "02",
+    "title": "GraphQL N+1 Queries",
+    "at": "2026-11-02T19:00:00+05:30",
+    "caption": "GraphQL: One Request, Eleven Database Queries\n\nOne GraphQL request can trigger many database queries. This ten-post example explains the N+1 pattern, batching with DataLoader, and why loaders normally belong to one request.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://www.graphql-js.org/docs/n1-dataloader/\nhttps://github.com/graphql/dataloader\n\n#GraphQL #DatabaseOptimization #DataLoader #WebDevelopment #ExplainBro",
+    "video": "instagram-explain-bro-2026-11-01-02.mp4",
+    "cover": "instagram-explain-bro-2026-11-01-02-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-explain-bro-2026-11-01#03",
+    "number": "03",
+    "title": "WebSockets vs SSE",
+    "at": "2026-11-03T19:00:00+05:30",
+    "caption": "WebSockets or SSE? Follow the Data Direction\n\nWebSockets and server-sent events differ in the direction messages can travel. See the browser EventSource code and the server event-stream format.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events\nhttps://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API\n\n#WebSockets #ServerSentEvents #WebDevelopment #JavaScript #ExplainBro",
+    "video": "instagram-explain-bro-2026-11-01-03.mp4",
+    "cover": "instagram-explain-bro-2026-11-01-03-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-explain-bro-2026-11-01#04",
+    "number": "04",
+    "title": "Native HTML Dialog",
+    "at": "2026-11-04T19:00:00+05:30",
+    "caption": "HTML Already Has a Modal: Meet the Dialog Tag\n\nThe native HTML dialog element can handle modal behavior without a custom modal library. See showModal(), backdrop styling, a close form and the accessibility checks still needed.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog\nhttps://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/showModal\n\n#HTML #JavaScript #WebDevelopment #FrontendDevelopment #ExplainBro",
+    "video": "instagram-explain-bro-2026-11-01-04.mp4",
+    "cover": "instagram-explain-bro-2026-11-01-04-cover.jpg",
+    "status": "waiting"
+  }
+]
