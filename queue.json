@@ -4,7 +4,7 @@
     "number": "01",
     "title": "REST vs GraphQL vs gRPC",
     "at": "2026-11-02T19:00:00+05:30",
-    "caption": "REST vs GraphQL vs gRPC: Pick the Right Tool\n\nREST, GraphQL and gRPC solve different interface problems. Here is a quick comparison of resources, field selection and service contracts\u2014without a made-up universal winner.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Glossary/REST\nhttps://graphql.org/learn/queries/\nhttps://grpc.io/docs/what-is-grpc/introduction/\n\n#SoftwareEngineering #APIDesign #GraphQL #gRPC #ExplainBro",
+    "caption": "REST vs GraphQL vs gRPC: Pick the Right Tool\n\nREST, GraphQL and gRPC solve different interface problems. Here is a quick comparison of resources, field selection and service contracts—without a made-up universal winner.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Glossary/REST\nhttps://graphql.org/learn/queries/\nhttps://grpc.io/docs/what-is-grpc/introduction/\n\n#SoftwareEngineering #APIDesign #GraphQL #gRPC #ExplainBro",
     "video": "instagram-explain-bro-2026-11-01-01.mp4",
     "cover": "instagram-explain-bro-2026-11-01-01-cover.jpg",
     "status": "waiting"
