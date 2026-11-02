@@ -38,5 +38,45 @@
     "video": "instagram-explain-bro-2026-11-01-04.mp4",
     "cover": "instagram-explain-bro-2026-11-01-04-cover.jpg",
     "status": "waiting"
+  },
+  {
+    "id": "instagram-mechanisms-2026-11-02#01",
+    "number": "01",
+    "title": "induction",
+    "at": "2026-11-06T18:00:00+05:30",
+    "caption": "Induction Cooking: The Pan Becomes the Heater\n\nBoiling water, no flame. With induction, the pan becomes the heater. Alternating current in a coil creates a rapidly changing magnetic field. That field induces swirling electrical currents in a compatible pan. These are eddy currents. Electrical resistance converts their energy into heat, directly in the metal. The hot pan transfers heat to the water. The glass is not the primary heater. But the pan heats the glass by contact. It can stay hot after cooking. So this is a cutaway, not a touch test. The trick is where the heat starts.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://www.energy.gov/articles/making-switch-induction-stoves-or-cooktops\nhttps://toshiba.semicon-storage.com/content/dam/toshiba-ss-v3/master/en/semiconductor/design-development/innovationcentre/whitepapers/TCM0542_GT20N135SRA.pdf\nhttps://www.bosch-home.co.uk/customer-service/get-support/hobs/induction-hot-to-touch\n\n#HowItWorks #ExplainBro #Technology",
+    "video": "instagram-mechanisms-2026-11-02-01.mp4",
+    "cover": "instagram-mechanisms-2026-11-02-01-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-mechanisms-2026-11-02#02",
+    "number": "02",
+    "title": "microwave",
+    "at": "2026-11-07T11:30:00+05:30",
+    "caption": "Microwaves: Why the Middle Can Stay Cold\n\nHot outside, cold middle? Microwaves do not magically cook food inside out. A magnetron turns electricity into microwaves, which reflect around the metal cavity. The waves enter the food. Water molecules absorb energy and move, producing heat. Energy becomes heat where it is absorbed. No flame, and no radioactive food. In thick food, microwaves mainly heat outer layers. Heat then conducts inward. Microwave-safe glass lets waves through, but hot food can still heat the container. Stir and follow standing-time instructions to help heat spread. The centre needs time.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens\nhttps://www.canada.ca/en/health-canada/services/general-food-safety-tips/microwaves.html\n\n#HowItWorks #ExplainBro #Technology",
+    "video": "instagram-mechanisms-2026-11-02-02.mp4",
+    "cover": "instagram-mechanisms-2026-11-02-02-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-mechanisms-2026-11-02#03",
+    "number": "03",
+    "title": "thermostat",
+    "at": "2026-11-08T13:30:00+05:30",
+    "caption": "How a Kettle Knows When to Switch Off\n\nYour kettle boils, then clicks off. Many kettles use a tiny mechanical thermostat. Steam reaches a heat-sensitive bimetal mechanism, triggering the switch. Bimetal means two different metals bonded together. When heated, they expand by different amounts. Joined together, they cannot stretch independently. Unequal expansion makes the strip bend. That movement opens electrical contacts. The heating circuit breaks, and power switches off. A traditional iron uses a bimetal thermostat too, cycling its heater to regulate temperature. The kettle responds to boiling steam. The iron responds to its temperature. Heat moves the switch.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://strix.com/safety.html\nhttps://www.bis.gov.in/wp-content/uploads/2023/08/Electric-Iron-16.pdf\n\n#HowItWorks #ExplainBro #Technology",
+    "video": "instagram-mechanisms-2026-11-02-03.mp4",
+    "cover": "instagram-mechanisms-2026-11-02-03-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-mechanisms-2026-11-02#04",
+    "number": "04",
+    "title": "passkeys",
+    "at": "2026-11-09T19:00:00+05:30",
+    "caption": "Passkeys: Prove Your Identity Without a Password\n\nA passkey signs you in without sending a password. Here is the handshake. Your authenticator creates a key pair. The website stores the public key. At login, the website sends a fresh challenge. You approve with your fingerprint, face, or device PIN. Your authenticator signs the challenge with the private key. Your biometric stays local. The website checks that signature using the public key. It never needs your private key. Passkeys are tied to the real website, helping block lookalike phishing pages. Some passkeys sync securely across devices; others stay device-bound. Login sends proof, not a shared secret.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Web/Security/Authentication/Passkeys\nhttps://developers.google.com/identity/passkeys\nhttps://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys\n\n#HowItWorks #ExplainBro #Technology",
+    "video": "instagram-mechanisms-2026-11-02-04.mp4",
+    "cover": "instagram-mechanisms-2026-11-02-04-cover.jpg",
+    "status": "waiting"
   }
 ]
