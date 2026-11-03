@@ -21,7 +21,11 @@
     "caption": "GraphQL: One Request, Eleven Database Queries\n\nOne GraphQL request can trigger many database queries. This ten-post example explains the N+1 pattern, batching with DataLoader, and why loaders normally belong to one request.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://www.graphql-js.org/docs/n1-dataloader/\nhttps://github.com/graphql/dataloader\n\n#GraphQL #DatabaseOptimization #DataLoader #WebDevelopment #ExplainBro",
     "video": "instagram-explain-bro-2026-11-01-02.mp4",
     "cover": "instagram-explain-bro-2026-11-01-02-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "18112440644605560",
+    "permalink": "https://www.instagram.com/reel/DfR_ow4gNgQ/",
+    "note": "",
+    "posted_at": "2026-11-03T13:31:00.120487+00:00"
   },
   {
     "id": "instagram-explain-bro-2026-11-01#03",
