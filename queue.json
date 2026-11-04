@@ -35,7 +35,11 @@
     "caption": "WebSockets or SSE? Follow the Data Direction\n\nWebSockets and server-sent events differ in the direction messages can travel. See the browser EventSource code and the server event-stream format.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events\nhttps://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API\n\n#WebSockets #ServerSentEvents #WebDevelopment #JavaScript #ExplainBro",
     "video": "instagram-explain-bro-2026-11-01-03.mp4",
     "cover": "instagram-explain-bro-2026-11-01-03-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "18136399408677793",
+    "permalink": "https://www.instagram.com/reel/DfUkb8JCNc7/",
+    "note": "",
+    "posted_at": "2026-11-04T13:31:00.307967+00:00"
   },
   {
     "id": "instagram-explain-bro-2026-11-01#04",
