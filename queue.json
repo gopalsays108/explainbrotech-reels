@@ -90,5 +90,45 @@
     "video": "instagram-mechanisms-2026-11-02-04.mp4",
     "cover": "instagram-mechanisms-2026-11-02-04-cover.jpg",
     "status": "waiting"
+  },
+  {
+    "id": "instagram-phone-tech-4#01",
+    "number": "01",
+    "title": "authenticator",
+    "at": "2026-11-10T13:00:00+05:30",
+    "caption": "How authenticator apps generate login codes without internet.\n\nYour phone and the server share a secret during setup. Both use that secret and the same time window to independently calculate a matching short code. The server never needs to contact your phone, which is why the code keeps changing even in airplane mode.\n\nVisuals and narration made with AI tools; facts checked against the official TOTP specification.\n\n#Authenticator #2FA #TOTP #Cybersecurity #ExplainBro",
+    "video": "instagram-phone-tech-4-01.mp4",
+    "cover": "instagram-phone-tech-4-01-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-phone-tech-4#02",
+    "number": "02",
+    "title": "face-id",
+    "at": "2026-11-11T12:00:00+05:30",
+    "caption": "How Face ID recognizes a real face instead of a flat photograph.\n\nTrueDepth projects thousands of infrared dots, creates a depth map and compares a protected mathematical face model inside the Secure Enclave. Attention checks and an anti-spoofing network add more protection.\n\nVisuals and narration made with AI tools; facts checked against Apple Platform Security.\n\n#FaceID #Biometrics #TrueDepth #iPhoneSecurity #ExplainBro",
+    "video": "instagram-phone-tech-4-02.mp4",
+    "cover": "instagram-phone-tech-4-02-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-phone-tech-4#03",
+    "number": "03",
+    "title": "tap-to-pay",
+    "at": "2026-11-12T09:00:00+05:30",
+    "caption": "What actually happens when you tap a card or phone to pay.\n\nNFC begins a short-range exchange. The payment chip produces a transaction-specific cryptogram, while phone wallets add device authentication and tokenized card data. The issuer verifies the proof before returning approval.\n\nVisuals and narration made with AI tools; facts checked against EMVCo and Apple security documentation.\n\n#TapToPay #NFC #EMV #PaymentSecurity #ExplainBro",
+    "video": "instagram-phone-tech-4-03.mp4",
+    "cover": "instagram-phone-tech-4-03-cover.jpg",
+    "status": "waiting"
+  },
+  {
+    "id": "instagram-phone-tech-4#04",
+    "number": "04",
+    "title": "damaged-qr",
+    "at": "2026-11-13T18:00:00+05:30",
+    "caption": "How a damaged QR code can still scan.\n\nQR codes contain Reed–Solomon recovery information alongside their data. A scanner can use those extra codewords to reconstruct some missing bytes, though excessive damage or destroyed critical patterns can still make the scan fail.\n\nVisuals and narration made with AI tools; facts checked against DENSO WAVE’s official QR documentation.\n\n#QRCode #ErrorCorrection #ReedSolomon #Technology #ExplainBro",
+    "video": "instagram-phone-tech-4-04.mp4",
+    "cover": "instagram-phone-tech-4-04-cover.jpg",
+    "status": "waiting"
   }
 ]
