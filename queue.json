@@ -105,7 +105,11 @@
     "caption": "Passkeys: Prove Your Identity Without a Password\n\nA passkey signs you in without sending a password. Here is the handshake. Your authenticator creates a key pair. The website stores the public key. At login, the website sends a fresh challenge. You approve with your fingerprint, face, or device PIN. Your authenticator signs the challenge with the private key. Your biometric stays local. The website checks that signature using the public key. It never needs your private key. Passkeys are tied to the real website, helping block lookalike phishing pages. Some passkeys sync securely across devices; others stay device-bound. Login sends proof, not a shared secret.\n\nVisuals and narration made with AI tools; facts checked against the sources below.\n\nSources:\nhttps://developer.mozilla.org/en-US/docs/Web/Security/Authentication/Passkeys\nhttps://developers.google.com/identity/passkeys\nhttps://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys\n\n#HowItWorks #ExplainBro #Technology",
     "video": "instagram-mechanisms-2026-11-02-04.mp4",
     "cover": "instagram-mechanisms-2026-11-02-04-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "18205202545331487",
+    "permalink": "https://www.instagram.com/reel/Dfhcb6BiVWx/",
+    "note": "",
+    "posted_at": "2026-11-09T13:30:58.572476+00:00"
   },
   {
     "id": "instagram-phone-tech-4#01",
