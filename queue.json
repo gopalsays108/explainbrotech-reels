@@ -119,7 +119,11 @@
     "caption": "How authenticator apps generate login codes without internet.\n\nYour phone and the server share a secret during setup. Both use that secret and the same time window to independently calculate a matching short code. The server never needs to contact your phone, which is why the code keeps changing even in airplane mode.\n\nVisuals and narration made with AI tools; facts checked against the official TOTP specification.\n\n#Authenticator #2FA #TOTP #Cybersecurity #ExplainBro",
     "video": "instagram-phone-tech-4-01.mp4",
     "cover": "instagram-phone-tech-4-01-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "17964196596235215",
+    "permalink": "https://www.instagram.com/reel/DfjX_oYDSMO/",
+    "note": "",
+    "posted_at": "2026-11-10T07:30:56.430545+00:00"
   },
   {
     "id": "instagram-phone-tech-4#02",
