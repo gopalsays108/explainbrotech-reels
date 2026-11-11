@@ -133,7 +133,11 @@
     "caption": "How Face ID recognizes a real face instead of a flat photograph.\n\nTrueDepth projects thousands of infrared dots, creates a depth map and compares a protected mathematical face model inside the Secure Enclave. Attention checks and an anti-spoofing network add more protection.\n\nVisuals and narration made with AI tools; facts checked against Apple Platform Security.\n\n#FaceID #Biometrics #TrueDepth #iPhoneSecurity #ExplainBro",
     "video": "instagram-phone-tech-4-02.mp4",
     "cover": "instagram-phone-tech-4-02-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "18168265258471190",
+    "permalink": "https://www.instagram.com/reel/Dfl17KYEiJ0/",
+    "note": "",
+    "posted_at": "2026-11-11T06:30:57.853385+00:00"
   },
   {
     "id": "instagram-phone-tech-4#03",
