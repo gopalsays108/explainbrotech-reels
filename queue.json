@@ -147,7 +147,11 @@
     "caption": "What actually happens when you tap a card or phone to pay.\n\nNFC begins a short-range exchange. The payment chip produces a transaction-specific cryptogram, while phone wallets add device authentication and tokenized card data. The issuer verifies the proof before returning approval.\n\nVisuals and narration made with AI tools; facts checked against EMVCo and Apple security documentation.\n\n#TapToPay #NFC #EMV #PaymentSecurity #ExplainBro",
     "video": "instagram-phone-tech-4-03.mp4",
     "cover": "instagram-phone-tech-4-03-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "17916073041551697",
+    "permalink": "https://www.instagram.com/reel/DfoGNpmj74K/",
+    "note": "",
+    "posted_at": "2026-11-12T03:30:53.910414+00:00"
   },
   {
     "id": "instagram-phone-tech-4#04",
