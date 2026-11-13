@@ -161,6 +161,10 @@
     "caption": "How a damaged QR code can still scan.\n\nQR codes contain Reed–Solomon recovery information alongside their data. A scanner can use those extra codewords to reconstruct some missing bytes, though excessive damage or destroyed critical patterns can still make the scan fail.\n\nVisuals and narration made with AI tools; facts checked against DENSO WAVE’s official QR documentation.\n\n#QRCode #ErrorCorrection #ReedSolomon #Technology #ExplainBro",
     "video": "instagram-phone-tech-4-04.mp4",
     "cover": "instagram-phone-tech-4-04-cover.jpg",
-    "status": "waiting"
+    "status": "posted",
+    "media_id": "18414583324088695",
+    "permalink": "https://www.instagram.com/reel/DfrotgRlWXs/",
+    "note": "",
+    "posted_at": "2026-11-13T12:30:57.087364+00:00"
   }
 ]
